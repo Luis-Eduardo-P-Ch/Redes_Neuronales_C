@@ -1,2 +1,2 @@
 # Redes_Neuronales_C
-Redes Neuronales para resolver problemas de Clasificación
+Redes Neuronales para resolver problemas Varios (Clasificación, predición, Etc..)
